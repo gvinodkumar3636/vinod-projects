@@ -1,0 +1,105 @@
+{
+  "guests": [
+    {
+      "id": "359f",
+      "fullname": "Abdul Kalam",
+      "email": "AbdulKalam@gmail.com",
+      "username": "vinodgandla",
+      "password": "vinodgandla",
+      "phone": "7894561230"
+    },
+    {
+      "id": "e311",
+      "fullname": "Vinod Gandla",
+      "email": "AbdulKalam@gmail.com",
+      "username": "vinodgandla",
+      "phone": "9110714618"
+    },
+    {
+      "id": "d1c5",
+      "fullname": "Vinod Gandla",
+      "email": "fgwh@ghj.com",
+      "username": "Rajini",
+      "phone": "9110714618"
+    },
+    {
+      "id": "8ff1",
+      "fullname": "Vinod Gandla",
+      "email": "fgwh@ghj.com",
+      "username": "vinodgandla",
+      "phone": "9110714618"
+    },
+    {
+      "id": "f491",
+      "fullname": "Abdul Kalam",
+      "email": "AbdulKalam@gmail.com",
+      "username": "Rajini",
+      "phone": "7894561230"
+    },
+    {
+      "id": "ee73",
+      "fullname": "yakub ",
+      "email": "AbdulKalam@gmail.com",
+      "username": "ak",
+      "phone": "9110714618"
+    },
+    {
+      "id": "1ffb",
+      "fullname": "Abdul Kalam",
+      "email": "fgwh@ghj.com",
+      "username": "kalam",
+      "phone": "7894561230"
+    },
+    {
+      "id": "e410",
+      "fullname": "yakub ",
+      "email": "AbdulKalam@gmail.com",
+      "username": "kalam",
+      "phone": "7894561230"
+    },
+    {
+      "id": "8b44",
+      "fullname": "asdfghnm",
+      "email": "abdulkalam@gmail.com",
+      "username": "Rajini",
+      "phone": "7894561230"
+    },
+    {
+      "id": "1e8c",
+      "fullname": "Abdul Kalam",
+      "email": "fgwh@ghj.com",
+      "username": "vinodgandla",
+      "phone": "9110714618"
+    },
+    {
+      "id": "8d73",
+      "fullname": "asdfghnm",
+      "email": "fgwh@ghj.com",
+      "username": "kalam",
+      "phone": "7894561230"
+    }
+  ],
+  "credentials": [
+    {
+      "name": "m.techmahindrafoundation@gmail.com",
+      "password": "123456",
+      "employeeid": "Emp01",
+      "designation": "manager",
+      "id": 1
+    },
+    {
+      "name": "lalitha78@gmail.com",
+      "password": "Lalitha@34",
+      "employeeid": "Emp009",
+      "designation": "trainer",
+      "id": 2
+    },
+    {
+      "id": "3289",
+      "username": "bhgfgfhfj@gmail.com",
+      "password": "123456",
+      "employeeid": "2021",
+      "role": "hjghjghfhg"
+    }
+  ]
+}

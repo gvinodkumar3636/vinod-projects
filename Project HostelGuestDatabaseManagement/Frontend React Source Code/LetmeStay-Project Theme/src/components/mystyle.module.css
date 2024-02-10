@@ -1,0 +1,12 @@
+.registerPageImg{
+    background-image: url("C:\CIJD9-ReactJS\letmestay\src\Images\loginBackImage.webp");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.regForm{
+    padding: 10px;
+    width: fit-content;
+}
