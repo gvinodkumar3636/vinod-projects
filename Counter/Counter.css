@@ -1,0 +1,13 @@
+.bg-container{
+    height: 100vh;
+    background-color: rgb(237, 240, 231);
+}
+.head {
+    font-size: 70px;
+    font-weight: 800;
+}
+
+p {
+    font-weight: 900;
+    font-size: 75px;
+}

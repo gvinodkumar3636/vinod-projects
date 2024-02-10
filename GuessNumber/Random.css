@@ -1,0 +1,14 @@
+.inpuSty{
+    width: 300px;
+    margin: 10px;
+    height: 50px;
+}
+.checkButton{
+    width: 150px;
+    height: 50px;
+}
+.opResult{
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+}

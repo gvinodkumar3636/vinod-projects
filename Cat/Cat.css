@@ -1,0 +1,21 @@
+.dark-container{
+    background-color: black;
+    
+}
+.bulb-image{
+    width: 150px;
+    height: 150px;
+}
+.cat-image{
+    width: 300px;
+    height: 300px;
+}
+.switch-board{
+    background-color: #7b8794;
+    border-radius: 16px;
+    padding-top: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: fit-content;
+    margin-bottom: 20px;
+}
